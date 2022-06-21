@@ -40,4 +40,10 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
   pipenv install autopep8
 ```
 
-### [2-CREATE USER MODEL](https://github.com/omeatai/Django-API-Recipe-App/blob/main/2-Create-User-Model.md)
+---
+
+### [2-CREATE USER MODEL](#)
+
+---
+
+### 1. Test_create_user_with_email_successful - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0f655a703c374b75b9874a0e641a4b7a0854f96b)
