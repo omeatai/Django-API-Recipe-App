@@ -21,3 +21,5 @@
 ```python
   python manage.py startapp core
 ```
+
+### 5. Register Core App in Settings
