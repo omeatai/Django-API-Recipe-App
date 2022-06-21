@@ -6,6 +6,8 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 
 ### [1-SETUP](#)
 
+---
+
 ### 1. Create-ENV
 
 ```python
