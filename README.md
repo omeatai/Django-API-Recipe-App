@@ -1,6 +1,6 @@
 # Django-API-Recipe-App
 
-Django-API-Recipe-App Project
+Django-API-Recipe-App Project By Ifeanyi Omeata
 
 ---
 
