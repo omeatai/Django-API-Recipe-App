@@ -75,3 +75,5 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ### 8. Test_create_superuser - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/658169fa3787777e26164acb7fa3fbd5663e30a1)
 
 ### 9. Test_users_lists - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/25cd1011848308d1a8e65fe24e0ca19d9679a963)
+
+### 10. Define the admin pages for users - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/aeab95a26eb124684e4e9ab135506a4b4dd23e6f)
