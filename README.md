@@ -49,3 +49,15 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ### 1. Test_create_user_with_email_successful - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0f655a703c374b75b9874a0e641a4b7a0854f96b)
 
 ### 2. Create User and User Manager Models - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/3214f5252f3d85ee5b3a8a22f08d5db728ad24b4)
+
+### 3. Django Make Migrations
+
+```python
+  python manage.py makemigrations
+```
+
+### 4. Django Migrate
+
+```python
+  python manage.py migrate
+```
