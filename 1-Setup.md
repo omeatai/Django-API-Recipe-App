@@ -27,5 +27,5 @@
 ### 6. Install Autopep8
 
 ```python
-  pipenv install -U autopep8
+  pipenv install autopep8
 ```
