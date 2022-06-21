@@ -19,3 +19,9 @@ Django-API-Recipe-App Project
 ```python
   pipenv install django djangorestframework django-shortcuts
 ```
+
+### 3. Create Project
+
+```python
+  django-admin startproject coreproject .
+```
