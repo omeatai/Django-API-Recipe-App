@@ -62,7 +62,7 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
   python manage.py migrate
 ```
 
-### 4. Run Django Test
+### 5. Run Django Test
 
 ```python
   python manage.py test
