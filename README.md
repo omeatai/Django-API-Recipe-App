@@ -67,3 +67,5 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ```python
   python manage.py test
 ```
+
+### 6. Test_new_user_email_normalized - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/8a519dc854280b3e4b8ec00b658b281a1339c9c9)
