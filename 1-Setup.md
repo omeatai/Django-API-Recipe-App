@@ -23,3 +23,5 @@
 ```
 
 ### 5. Register Core App in Settings - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/923774964d24437b8399a77846bc901e71f4b868)
+
+### 6.
