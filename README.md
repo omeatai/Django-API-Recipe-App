@@ -97,3 +97,7 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ### 2. Add User App to settings - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d81eeb5a6cac67ef010d2996e73d287a5073d3f7)
 
 ### 3. Test_create_user_api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0796c8a5c5fecde6d662b37d90a054d3171fd4b8)
+
+```python
+  python manage.py test
+```
