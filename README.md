@@ -101,3 +101,5 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ```python
   python manage.py test
 ```
+
+### 4. Create User api Serializer and URL - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/19a16b68623b64ed24721313701610c24d200578)
