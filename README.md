@@ -91,5 +91,5 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ### 1.Create User App
 
 ```python
-  python manage.py makemigrations
+  python manage.py startapp user
 ```
