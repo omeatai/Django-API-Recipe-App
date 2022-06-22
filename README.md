@@ -81,3 +81,15 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ### 11. Test_edit_user_page - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d11d7b84d0694a9f9b587f89673c119e30cf4604)
 
 ### 12. Test_create_user_page - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0894b4d76c7e0580b8f9a0ac6a2b6ef2a5ccada2)
+
+---
+
+### [3-CREATE USER API](#)
+
+---
+
+### 1.Create User App
+
+```python
+  python manage.py makemigrations
+```
