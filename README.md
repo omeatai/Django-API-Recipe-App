@@ -88,10 +88,10 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 
 ---
 
-### 1.Create User App
+### 1. Create User App
 
 ```python
   python manage.py startapp user
 ```
 
-### 2.Add User App to settings - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d81eeb5a6cac67ef010d2996e73d287a5073d3f7)
+### 2. Add User App to settings - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d81eeb5a6cac67ef010d2996e73d287a5073d3f7)
