@@ -70,17 +70,41 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 
 ### 6. Test_new_user_email_normalized - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/8a519dc854280b3e4b8ec00b658b281a1339c9c9)
 
+```python
+  python manage.py test
+```
+
 ### 7. Test_new_user_without_email_raises_error - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/94feda343f9e687b13a7b9a9f5cbddc71bed22e0)
+
+```python
+  python manage.py test
+```
 
 ### 8. Test_create_superuser - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/658169fa3787777e26164acb7fa3fbd5663e30a1)
 
+```python
+  python manage.py test
+```
+
 ### 9. Test_users_lists - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/25cd1011848308d1a8e65fe24e0ca19d9679a963)
+
+```python
+  python manage.py test
+```
 
 ### 10. Define the admin pages for users - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/aeab95a26eb124684e4e9ab135506a4b4dd23e6f)
 
 ### 11. Test_edit_user_page - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d11d7b84d0694a9f9b587f89673c119e30cf4604)
 
+```python
+  python manage.py test
+```
+
 ### 12. Test_create_user_page - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0894b4d76c7e0580b8f9a0ac6a2b6ef2a5ccada2)
+
+```python
+  python manage.py test
+```
 
 ---
 
@@ -113,5 +137,9 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ### 6. Create User Token - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/93224826e8677047edae84106f5e1e6bb417ac42)
 
 ### 7. Test for manage user Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/43c98c0edbe89101c49d706c5f5d8e685c05f503)
+
+```python
+  python manage.py test
+```
 
 ### 8. Manage user Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/437b9078f7dced5705695d168f64a548edfa1584)
