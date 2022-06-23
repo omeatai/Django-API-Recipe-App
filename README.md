@@ -155,3 +155,19 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 ![image info](./media/ManageUser.png)
 ![image info](./media/ManageUser2.png)
+
+### 13. Update (PATCH) Username in User Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/user/me/
+```
+
+![image info](./media/UpdatePatch.png)
+
+### 14. Update (PUT) Fields in User Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/user/me/
+```
+
+![image info](./media/UpdatePut.png)
