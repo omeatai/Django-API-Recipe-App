@@ -132,3 +132,11 @@ Django-API-Recipe Project By Ifeanyi Omeata
   admin@example.com
   123456
 ```
+
+### 10. Test User Endpoints -
+
+```python
+  http://127.0.0.1:8000/api/user/create/
+```
+
+Screenshot 2022-06-23 at 15.57.51.png
