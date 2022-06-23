@@ -127,3 +127,8 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```python
   python manage.py createsuperuser
 ```
+
+```python
+  admin@example.com
+  123456
+```
