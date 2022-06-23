@@ -154,3 +154,4 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```
 
 ![image info](./media/ManageUser.png)
+![image info](./media/ManageUser2.png)
