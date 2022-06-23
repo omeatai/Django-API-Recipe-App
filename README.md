@@ -2,8 +2,6 @@
 
 Django-API-Recipe Project By Ifeanyi Omeata
 
-### Source - [Build a Backend REST API](https://www.udemy.com/course/django-python-advanced/learn/lecture/32238592#overview)
-
 ---
 
 ### [1-SETUP](#)
