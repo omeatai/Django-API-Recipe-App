@@ -109,3 +109,15 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ### 7. Test for manage user Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/43c98c0edbe89101c49d706c5f5d8e685c05f503)
 
 ### 8. Manage User Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/437b9078f7dced5705695d168f64a548edfa1584)
+
+```python
+  python manage.py migrate
+```
+
+```python
+  python manage.py test
+```
+
+```python
+  python manage.py runserver
+```
