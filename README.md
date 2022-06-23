@@ -96,9 +96,9 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 
 ### 2. Add User App and Rest Framework to settings - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d81eeb5a6cac67ef010d2996e73d287a5073d3f7)
 
-### 3. Test_create_user_api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0796c8a5c5fecde6d662b37d90a054d3171fd4b8)
+### 3. Test_create_user_Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0796c8a5c5fecde6d662b37d90a054d3171fd4b8)
 
-### 4. Create User API Serializer and URL - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/19a16b68623b64ed24721313701610c24d200578)
+### 4. Create User Api Serializer and URL - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/19a16b68623b64ed24721313701610c24d200578)
 
 ### 5. Test for User Token - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/ccd2c78e2842137ec3015a2caee9b6464c604f87)
 
@@ -106,4 +106,4 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 
 ### 7. Test for manage user Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/43c98c0edbe89101c49d706c5f5d8e685c05f503)
 
-### 8. Manage user Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/437b9078f7dced5705695d168f64a548edfa1584)
+### 8. Manage User Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/437b9078f7dced5705695d168f64a548edfa1584)
