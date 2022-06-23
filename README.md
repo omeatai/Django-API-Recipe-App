@@ -146,3 +146,11 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```
 
 ![image info](./media/CreateUserToken.png)
+
+### 12. Test Manage User Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/user/me/
+```
+
+![image info](./media/ManageUser.png)
