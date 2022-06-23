@@ -137,7 +137,12 @@ Django-API-Recipe Project By Ifeanyi Omeata
   http://127.0.0.1:8000/api/user/create/
 ```
 
+<details>
+  <summary>Click to expand!</summary>
+
 ![image info](./media/CreateUser.png)
+
+</details>
 
 ### 11. Test Create Token Endpoint -
 
@@ -145,7 +150,12 @@ Django-API-Recipe Project By Ifeanyi Omeata
   http://127.0.0.1:8000/api/user/token/
 ```
 
+<details>
+  <summary>Click to expand!</summary>
+
 ![image info](./media/CreateUserToken.png)
+
+</details>
 
 ### 12. Test Manage User Endpoint -
 
@@ -153,8 +163,13 @@ Django-API-Recipe Project By Ifeanyi Omeata
   http://127.0.0.1:8000/api/user/me/
 ```
 
+<details>
+  <summary>Click to expand!</summary>
+
 ![image info](./media/ManageUser.png)
 ![image info](./media/ManageUser2.png)
+
+</details>
 
 ### 13. Update (PATCH) Username in User Endpoint -
 
@@ -162,7 +177,12 @@ Django-API-Recipe Project By Ifeanyi Omeata
   http://127.0.0.1:8000/api/user/me/
 ```
 
+<details>
+  <summary>Click to expand!</summary>
+
 ![image info](./media/UpdatePatch.png)
+
+</details>
 
 ### 14. Update (PUT) Fields in User Endpoint -
 
@@ -170,7 +190,12 @@ Django-API-Recipe Project By Ifeanyi Omeata
   http://127.0.0.1:8000/api/user/me/
 ```
 
+<details>
+  <summary>Click to expand!</summary>
+
 ![image info](./media/UpdatePut.png)
+
+</details>
 
 ---
 
