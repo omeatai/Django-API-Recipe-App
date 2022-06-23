@@ -111,3 +111,5 @@ Django-API-Recipe-App Project By Ifeanyi Omeata
 ```
 
 ### 6. Create User Token - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/93224826e8677047edae84106f5e1e6bb417ac42)
+
+### 7. Test for manage user Api - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/43c98c0edbe89101c49d706c5f5d8e685c05f503)
