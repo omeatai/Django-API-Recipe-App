@@ -214,3 +214,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```python
   python manage.py migrate
 ```
+
+```python
+  python manage.py test
+```
