@@ -121,3 +121,9 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```python
   python manage.py runserver
 ```
+
+### 9. Create Super User -
+
+```python
+  python manage.py createsuperuser
+```
