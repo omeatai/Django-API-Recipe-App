@@ -139,4 +139,4 @@ Django-API-Recipe Project By Ifeanyi Omeata
   http://127.0.0.1:8000/api/user/create/
 ```
 
-Screenshot 2022-06-23 at 15.57.51.png
+![image info](./media/Screenshot1.png)
