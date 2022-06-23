@@ -203,9 +203,9 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 ---
 
-### 1. Tests for Create Recipe - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/3578ea2caf7af47a35eb406158ffb4e1a4fed75e)
+### 1. Test for Create Recipe - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/3578ea2caf7af47a35eb406158ffb4e1a4fed75e)
 
-### 1. Create Recipe App
+### 2. Create Recipe Model - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/3578ea2caf7af47a35eb406158ffb4e1a4fed75e)
 
 ```python
   python manage.py startapp user
