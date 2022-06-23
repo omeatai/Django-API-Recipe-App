@@ -171,3 +171,17 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```
 
 ![image info](./media/UpdatePut.png)
+
+---
+
+### [4-CREATE RECIPE API](#)
+
+---
+
+### 1. Create Recipe App
+
+```python
+  python manage.py startapp user
+```
+
+### 2. Add Recipe App to settings - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/d81eeb5a6cac67ef010d2996e73d287a5073d3f7)
