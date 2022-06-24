@@ -238,3 +238,5 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ### 8. Test for Create Recipe Apis - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/fa5072067474026f9fa41da1ab076ccf0fb80bf2)
 
 ### 9. Create Recipe Apis - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/493b390c896a66b07c345ac19a1e42680c0978ec)
+
+### 10. Additional Tests - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/493b390c896a66b07c345ac19a1e42680c0978ec)
