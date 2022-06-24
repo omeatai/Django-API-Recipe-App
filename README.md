@@ -276,3 +276,26 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ![image info](./media/ManageUserEndpoint.png)
 
 </details>
+
+### 14. Create Recipe Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/recipe/recipes/
+```
+
+<details>
+  <summary>Click to expand!</summary>
+
+```python
+  {
+    "title": "first_recipe",
+    "time_minutes": 10,
+    "price": "2.50",
+    "link": "http://example.com",
+    "description": "menu description"
+  }
+```
+
+![image info](./media/CreateRecipeEndpoint.png)
+
+</details>
