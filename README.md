@@ -299,3 +299,16 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ![image info](./media/CreateRecipeEndpoint.png)
 
 </details>
+
+### 15. Api List Recipe Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/recipe/recipes/
+```
+
+<details>
+  <summary>Click to expand!</summary>
+
+![image info](./media/ListRecipeEndpoint.png)
+
+</details>
