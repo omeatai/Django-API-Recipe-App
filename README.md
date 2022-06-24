@@ -133,7 +133,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
   123456
 ```
 
-### 10. Test Create User Endpoint -
+### 10. Api Test Create User Endpoint -
 
 ```python
   http://127.0.0.1:8000/api/user/create/
@@ -146,7 +146,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 </details>
 
-### 11. Test Create Token Endpoint -
+### 11. Api Test Create Token Endpoint -
 
 ```python
   http://127.0.0.1:8000/api/user/token/
@@ -159,7 +159,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 </details>
 
-### 12. Test Manage User Endpoint -
+### 12. Api Test Manage User Endpoint -
 
 ```python
   http://127.0.0.1:8000/api/user/me/
@@ -173,7 +173,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 </details>
 
-### 13. Update (PATCH) Username in User Endpoint -
+### 13. Api Update (PATCH) Username in User Endpoint -
 
 ```python
   http://127.0.0.1:8000/api/user/me/
@@ -186,7 +186,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 </details>
 
-### 14. Update (PUT) Fields in User Endpoint -
+### 14. Api Update (PUT) Fields in User Endpoint -
 
 ```python
   http://127.0.0.1:8000/api/user/me/
