@@ -250,3 +250,16 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ```python
   python manage.py migrate
 ```
+
+### 12. Api Create Token for User Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/user/token/
+```
+
+<details>
+  <summary>Click to expand!</summary>
+
+![image info](./media/CreateTokenEndpoint.png)
+
+</details>
