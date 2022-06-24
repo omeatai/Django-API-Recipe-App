@@ -325,3 +325,16 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ![image info](./media/DetailRecipeEndpoint.png)
 
 </details>
+
+### 17. Api Update PUT Recipe Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/recipe/recipes/3
+```
+
+<details>
+  <summary>Click to expand!</summary>
+
+![image info](./media/UpdatePUTRecipeEndpoint.png)
+
+</details>
