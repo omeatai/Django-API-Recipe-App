@@ -240,3 +240,13 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ### 9. Create Recipe Apis - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/493b390c896a66b07c345ac19a1e42680c0978ec)
 
 ### 10. Additional Tests - [here](https://github.com/omeatai/Django-API-Recipe-App/commit/0652547a4bfda740be15dcf4512773b16589c166)
+
+### 11. Api Test Recipe Endpoint -
+
+```python
+  python manage.py makemigrations
+```
+
+```python
+  python manage.py migrate
+```
