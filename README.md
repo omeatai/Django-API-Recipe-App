@@ -351,3 +351,16 @@ Django-API-Recipe Project By Ifeanyi Omeata
 ![image info](./media/UpdatePATCHRecipeEndpoint.png)
 
 </details>
+
+### 19. Api Delete Recipe Endpoint -
+
+```python
+  http://127.0.0.1:8000/api/recipe/recipes/3
+```
+
+<details>
+  <summary>Click to expand!</summary>
+
+![image info](./media/DeleteRecipeEndpoint.png)
+
+</details>
