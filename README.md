@@ -277,7 +277,7 @@ Django-API-Recipe Project By Ifeanyi Omeata
 
 </details>
 
-### 14. Create Recipe Endpoint -
+### 14. Api Create Recipe Endpoint -
 
 ```python
   http://127.0.0.1:8000/api/recipe/recipes/
